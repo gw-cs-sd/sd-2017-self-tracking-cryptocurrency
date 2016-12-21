@@ -1,0 +1,10 @@
+Research: 
+	
+Finish Writing assignment 
+
+Code: 
+	Add the ability for currency to be split into two currencies of set amount of money 
+	Begin work on encrypting data from the system 
+	Test that the encruption and random padding of the userId works 
+	Test that the encryption and decryption of passing an object through the client and server works 
+	
