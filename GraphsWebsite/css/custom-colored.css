@@ -1,0 +1,200 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { margin:0; padding:0; }
+table { border-collapse:collapse; border-spacing:0; }
+fieldset,img { border:0; }
+address,caption,cite,code,dfn,em,strong,th,var { font-style:normal; font-weight:normal; }
+caption,th { text-align:left; }
+h1,h2,h3,h4,h5,h6 { font-size:100%; font-weight:normal; }
+q:before,q:after { content:''; }
+abbr,acronym { border:0; }
+
+body { background: #fff; }
+/* optional Container STYLES */
+.chart {  }
+.Treant > .node {  }
+.Treant > p { font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-weight: bold; font-size: 12px; }
+.node-name { font-weight: bold;}
+
+.nodeExample1 {
+    padding: 2px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #ffffff;
+    border: 1px solid #000;
+    width: 200px;
+    font-family: Tahoma;
+    font-size: 12px;
+}
+
+.nodeExample1 img {
+    margin-right:  10px;
+}
+
+.gray {
+    background-color: #909090;
+}
+
+.light-gray {
+    background-color: #D3D3C7;
+}
+
+.blue {
+    background-color: #A2BDFD;
+}
+
+
+
+.education {
+    background-color: #FF0000;
+}
+    .edu-tuition {
+        background-color: #FF1F1F;
+    }
+    .edu-studentLoans {
+        background-color: #FF3F3F;
+    }
+    .edu-books {
+        background-color: #FF5F5F;
+    }
+    .edu-supplies {
+        background-color: #FF7F7F;
+    }
+
+.entertainment {
+    background-color: #FFC9DE;
+}
+    .ent-arts {
+        background-color: #FFCFE2;
+    }
+    .ent-music {
+        background-color: #FFD6E6;
+    }
+    .ent-movies {
+        background-color: #FFDDEA;
+    }
+    .ent-newspaperMag {
+        background-color: #FFE4EE;
+    }
+    .ent-sports {
+        background-color: #FFEAF2;
+    }
+
+.shopping {
+    background-color: #AA6E28;
+}
+    .shop-clothing {
+        background-color: #AF7735;
+    }
+    .shop-books {
+        background-color: #B98950;
+    }
+    .shop-hobbies {
+        background-color: #C49B6B;
+    }
+    .shop-sports {
+        background-color: #CFAD86;
+    }
+
+.technology {
+    background-color: #FF9900;
+}
+    .tech-software{
+        background-color: #FF9F0F;
+    }
+    .tech-products{
+        background-color: #FFAC2F;
+    }
+    .tech-electronics{
+        background-color: #FFB84F;
+    }
+
+.personalCare {
+    background-color: #FFEA00;
+}
+    .pers-laundry{
+        background-color: #FFEC1F;
+    }
+    .pers-hair{
+        background-color: #FFEF3F;
+    }
+    .pers-spaMassage{
+        background-color: #FFF15F;
+    }
+    .pers-sports{
+        background-color: #FFF47F;
+    }
+
+.healthFitness {
+    background-color: #BEFF00;
+}
+    .health-dentist{
+        background-color: #C6FF1F;
+    }
+    .health-doctor{
+        background-color: #CEFF3F;
+    }
+    .health-eyecare{
+        background-color: #D6FF5F;
+    }
+    .health-pharmacy{
+        background-color: #DEFF7F;
+    }
+    .health-healthInsurance{
+        background-color: #E2FF8F;
+    }
+    .health-gym{
+        background-color: #E8FFA7;
+    }
+    .health-sports{
+        background-color: #EEFFBF;
+    }
+
+.kids {
+    background-color: #00BE00;
+}
+    .kids-activities{
+        background-color: #0FC20F;
+    }
+    .kids-allowance{
+        background-color: #1FC61F;
+    }
+    .kids-babysupplies{
+        background-color: #37CC37;
+    }
+    .kids-daycare{
+        background-color: #4FD24F;
+    }
+    .kids-childSupport{
+        background-color: #6FDA6F;
+    }
+    .kids-toys{
+        background-color: #87E087;
+    }
+
+.foodDining {
+    background-color: #AAFFC3;
+}
+    .food-groceries{
+        background-color: #AFFFC6;
+    }
+    .food-coffee{
+        background-color: #B7FFCC;
+    }
+    .food-fastFood{
+        background-color: #BFFFD2;
+    }
+    .food-resturants{
+        background-color: #CFFFDD;
+    }
+    .food-alcoholBars{
+        background-color: #D7FFE2;
+    }
+.businessServices {
+    background-color: #008080;
+}
+    .bus-legal{
+        background-color: #57ABAB;
+    }
+    .bus-salary{
+        background-color: #B2D8D8;
+    }
