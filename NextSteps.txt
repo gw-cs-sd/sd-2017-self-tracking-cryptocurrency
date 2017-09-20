@@ -1,0 +1,14 @@
+
+
+
+
+Final Demo: 
+Show the website 
+
+Show the creation of a currency 
+Show the modification of a currency
+Show an active transaction being sent 
+
+Display a created currency 
+Show the creation of a transaction graph
+Show the collpase and expand features of the graph 

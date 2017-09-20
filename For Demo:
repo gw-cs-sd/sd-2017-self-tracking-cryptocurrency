@@ -1,0 +1,24 @@
+For Demo:
+
+	Get the communication back with the server --> set up a socket that works and passes a currency across
+	Get the encryption decryption system to start only sending and storing encrypted data 
+	Database 
+	Client Server communication 
+	encrypting the token with a random pad in it that cant be copy and pasted to be used
+	Splitting Token two --> 
+	summarize the expense report 
+	WORK OUT AN EXAMPLE --> transactions going through several people and then where the numbers are
+
+
+For Winter Break 
+	Get the currency to start communicating with a database 
+	Get the Currency to start implementing with a UI and Play 
+	Set up relationship diagrams that can be used to present 
+	Set up a system that makes the currency completely anyomous 
+	Look into how the currency could be used to actually buy things and be used in a market 
+
+Wrapping the socket in an ssl socket 
+Communicate with the database (can assume that anything that runs on the server is secure --> connection betwen the code and the database)
+From client to server need to address 
+Splitting ability 
+To know how it was given but not who --> after one degree 
